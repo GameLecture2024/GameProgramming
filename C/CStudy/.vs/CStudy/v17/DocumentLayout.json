@@ -3,6 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\CStudy\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8F37621E-10E0-4BBE-ADE7-E5356B573AB1}|..\\Operator\\Operator.vcxproj|C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\Operator\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F37621E-10E0-4BBE-ADE7-E5356B573AB1}|..\\Operator\\Operator.vcxproj|C:\\PROGRAM FILES (X86)\\WINDOWS KITS\\10\\INCLUDE\\10.0.22621.0\\UCRT\\STDIO.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{80915BE3-244D-407C-8AFE-7F1ADB42CC41}|..\\Ch2\\Ch2.vcxproj|C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\Ch2\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -41,6 +47,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "stdio.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "ViewState": "AQIAAIYJAAAAAAAAAAAmwJAJAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-19T08:12:36.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\Operator\\main.c",
+              "RelativeDocumentMoniker": "..\\Operator\\main.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\Operator\\main.c",
+              "RelativeToolTip": "..\\Operator\\main.c",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAowHEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-19T07:04:58.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Variable.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\Ch1\\Variable.c",
               "RelativeDocumentMoniker": "..\\Ch1\\Variable.c",
@@ -48,18 +80,17 @@
               "RelativeToolTip": "..\\Ch1\\Variable.c",
               "ViewState": "AQIAABgAAAAAAAAAAADwvysAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-18T08:01:19.819Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T08:01:19.819Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Main.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\Ch2\\Main.c",
               "RelativeDocumentMoniker": "..\\Ch2\\Main.c",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\Ch2\\Main.c",
               "RelativeToolTip": "..\\Ch2\\Main.c",
-              "ViewState": "AQIAACkAAAAAAAAAAAAAwC4AAAAVAAAA",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAwDMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-02-18T07:07:47.858Z",
               "EditorCaption": ""
