@@ -3,10 +3,25 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\CStudy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{180B7201-45D8-4AA0-8332-3091B761CE61}|..\\Ch8\\Ch8.vcxproj|C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\Ch8\\menu.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BFDE2A31-D796-4F38-AD99-E735AD255D21}|..\\Ch9\\Ch9.vcxproj|C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\Ch9\\Upgrade.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDE2A31-D796-4F38-AD99-E735AD255D21}|..\\Ch9\\Ch9.vcxproj|C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\Ch9\\lecture.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDE2A31-D796-4F38-AD99-E735AD255D21}|..\\Ch9\\Ch9.vcxproj|C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\Ch9\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDE2A31-D796-4F38-AD99-E735AD255D21}|..\\Ch9\\Ch9.vcxproj|C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\Ch9\\lecture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDE2A31-D796-4F38-AD99-E735AD255D21}|..\\Ch9\\Ch9.vcxproj|C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\Ch9\\Upgrade.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{180B7201-45D8-4AA0-8332-3091B761CE61}|..\\Ch8\\Ch8.vcxproj|C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\Ch8\\WeaponUpgrade.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180B7201-45D8-4AA0-8332-3091B761CE61}|..\\Ch8\\Ch8.vcxproj|C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\Ch8\\menu.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{180B7201-45D8-4AA0-8332-3091B761CE61}|..\\Ch8\\Ch8.vcxproj|C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\Ch8\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -15,7 +30,7 @@
       "AbsoluteMoniker": "D:0:0:{180B7201-45D8-4AA0-8332-3091B761CE61}|..\\Ch8\\Ch8.vcxproj|C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\Ch8\\menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{180B7201-45D8-4AA0-8332-3091B761CE61}|..\\Ch8\\Ch8.vcxproj|C:\\PROGRAM FILES (X86)\\WINDOWS KITS\\10\\INCLUDE\\10.0.22621.0\\UCRT\\CONIO.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\conio.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,7 +40,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -49,7 +64,72 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Upgrade.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\Ch9\\Upgrade.c",
+              "RelativeDocumentMoniker": "..\\Ch9\\Upgrade.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\Ch9\\Upgrade.c",
+              "RelativeToolTip": "..\\Ch9\\Upgrade.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-27T08:11:19.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Upgrade.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\Ch9\\Upgrade.h",
+              "RelativeDocumentMoniker": "..\\Ch9\\Upgrade.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\Ch9\\Upgrade.h",
+              "RelativeToolTip": "..\\Ch9\\Upgrade.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-27T08:11:08.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "lecture.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\Ch9\\lecture.c",
+              "RelativeDocumentMoniker": "..\\Ch9\\lecture.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\Ch9\\lecture.c",
+              "RelativeToolTip": "..\\Ch9\\lecture.c",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-27T08:03:26.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "lecture.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\Ch9\\lecture.h",
+              "RelativeDocumentMoniker": "..\\Ch9\\lecture.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\Ch9\\lecture.h",
+              "RelativeToolTip": "..\\Ch9\\lecture.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-27T08:01:04.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\Ch9\\main.c",
+              "RelativeDocumentMoniker": "..\\Ch9\\main.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\Ch9\\main.c",
+              "RelativeToolTip": "..\\Ch9\\main.c",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAUwBQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-27T07:03:45.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "WeaponUpgrade.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\Ch8\\WeaponUpgrade.h",
               "RelativeDocumentMoniker": "..\\Ch8\\WeaponUpgrade.h",
@@ -62,20 +142,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "menu.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\Ch8\\menu.c",
               "RelativeDocumentMoniker": "..\\Ch8\\menu.c",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\Ch8\\menu.c",
               "RelativeToolTip": "..\\Ch8\\menu.c",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAABoAAAADAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-02-26T08:16:12.775Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "menu.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\Ch8\\menu.h",
               "RelativeDocumentMoniker": "..\\Ch8\\menu.h",
@@ -83,12 +163,11 @@
               "RelativeToolTip": "..\\Ch8\\menu.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-26T08:09:14.773Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T08:09:14.773Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "conio.h",
               "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\conio.h",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\conio.h",
@@ -96,12 +175,11 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\conio.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-26T07:41:29.887Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T07:41:29.887Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "main.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\Ch8\\main.c",
               "RelativeDocumentMoniker": "..\\Ch8\\main.c",
@@ -109,8 +187,7 @@
               "RelativeToolTip": "..\\Ch8\\main.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-26T07:03:42.188Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T07:03:42.188Z"
             }
           ]
         },
