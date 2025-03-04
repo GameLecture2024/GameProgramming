@@ -9,6 +9,8 @@
 #include <Windows.h> // system("cls") 윈도우 콘솔 함수 포함되어 있는 헤더
 #include <stdlib.h>  // rand() 사용하기 위한 헤더
 #include <time.h>    // time() 사용하기 위한 헤더
+#include "Random.h"	 // 업그레이드 랜덤 강화를 위한 사용자 지정 헤더
+#include "Currency.h"// 코스트 사용 함수를 위한 사용자 지정 헤더  
 
 void ShowMenu();   // 1. 강화하다. 2. 상태를 보여준다.
 
@@ -32,5 +34,6 @@ bool IsGameClear(); // 무기의 레벨
 extern int CurrentLevel;
 extern int TargetLevel;
 extern bool isClear;
-extern bool isFail;
+
+
 

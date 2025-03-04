@@ -2,11 +2,14 @@
 
 // 강화 게임에 필요한 전역 변수들
 // 게임 목표
-int CurrentLevel = 8;
+int CurrentLevel = 0;
 int TargetLevel  = 10;
 bool isClear = false;
 
-bool isFail = false;
+// 방해 요인 - 재화
+int CurrentMoney = 10000;
+int UpgradeCost = 2500;
+bool isFail = false;	// 소지금이 일정 이하 일 때 
 
 void ShowTitle()
 {

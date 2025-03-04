@@ -3,25 +3,37 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\CStudy\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C75BADE6-B7EE-48A8-9A6B-C4798DCA09B6}|..\\ToyProject_01\\ToyProject_01.vcxproj|C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\ToyProject_01\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C75BADE6-B7EE-48A8-9A6B-C4798DCA09B6}|..\\ToyProject_01\\ToyProject_01.vcxproj|C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\ToyProject_01\\Random.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C75BADE6-B7EE-48A8-9A6B-C4798DCA09B6}|..\\ToyProject_01\\ToyProject_01.vcxproj|C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\ToyProject_01\\Random.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C75BADE6-B7EE-48A8-9A6B-C4798DCA09B6}|..\\ToyProject_01\\ToyProject_01.vcxproj|C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\ToyProject_01\\EnforceWeapon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C75BADE6-B7EE-48A8-9A6B-C4798DCA09B6}|..\\ToyProject_01\\ToyProject_01.vcxproj|C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\ToyProject_01\\Currency.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C75BADE6-B7EE-48A8-9A6B-C4798DCA09B6}|..\\ToyProject_01\\ToyProject_01.vcxproj|C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\ToyProject_01\\Play.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C75BADE6-B7EE-48A8-9A6B-C4798DCA09B6}|..\\ToyProject_01\\ToyProject_01.vcxproj|C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\ToyProject_01\\EnforceWeapon.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C75BADE6-B7EE-48A8-9A6B-C4798DCA09B6}|..\\ToyProject_01\\ToyProject_01.vcxproj|C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\ToyProject_01\\EnforceWeapon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C75BADE6-B7EE-48A8-9A6B-C4798DCA09B6}|..\\ToyProject_01\\ToyProject_01.vcxproj|C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\ToyProject_01\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C75BADE6-B7EE-48A8-9A6B-C4798DCA09B6}|..\\ToyProject_01\\ToyProject_01.vcxproj|C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\ToyProject_01\\Currency.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C75BADE6-B7EE-48A8-9A6B-C4798DCA09B6}|..\\ToyProject_01\\ToyProject_01.vcxproj|C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\ToyProject_01\\Intro.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFDE2A31-D796-4F38-AD99-E735AD255D21}|..\\Ch9\\Ch9.vcxproj|C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\Ch9\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C75BADE6-B7EE-48A8-9A6B-C4798DCA09B6}|..\\ToyProject_01\\ToyProject_01.vcxproj|C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\ToyProject_01\\Play.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C75BADE6-B7EE-48A8-9A6B-C4798DCA09B6}|..\\ToyProject_01\\ToyProject_01.vcxproj|C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\ToyProject_01\\Play.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BFDE2A31-D796-4F38-AD99-E735AD255D21}|..\\Ch9\\Ch9.vcxproj|C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\Ch9\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C75BADE6-B7EE-48A8-9A6B-C4798DCA09B6}|..\\ToyProject_01\\ToyProject_01.vcxproj|C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\ToyProject_01\\Intro.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -49,7 +61,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -73,26 +85,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "main.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\Ch9\\main.h",
-              "RelativeDocumentMoniker": "..\\Ch9\\main.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\Ch9\\main.h",
-              "RelativeToolTip": "..\\Ch9\\main.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-03T08:04:28.805Z",
+              "DocumentIndex": 5,
+              "Title": "Play.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\ToyProject_01\\Play.c",
+              "RelativeDocumentMoniker": "..\\ToyProject_01\\Play.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\ToyProject_01\\Play.c",
+              "RelativeToolTip": "..\\ToyProject_01\\Play.c",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-03T07:11:14.682Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\ToyProject_01\\main.c",
+              "RelativeDocumentMoniker": "..\\ToyProject_01\\main.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\ToyProject_01\\main.c",
+              "RelativeToolTip": "..\\ToyProject_01\\main.c",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAwCYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-03T07:08:06.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "EnforceWeapon.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\ToyProject_01\\EnforceWeapon.c",
               "RelativeDocumentMoniker": "..\\ToyProject_01\\EnforceWeapon.c",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\ToyProject_01\\EnforceWeapon.c",
               "RelativeToolTip": "..\\ToyProject_01\\EnforceWeapon.c",
-              "ViewState": "AQIAABgAAAAAAAAAAAAqwCIAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-03-03T07:44:11.546Z",
               "EditorCaption": ""
@@ -100,12 +125,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Random.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\ToyProject_01\\Random.h",
+              "RelativeDocumentMoniker": "..\\ToyProject_01\\Random.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\ToyProject_01\\Random.h",
+              "RelativeToolTip": "..\\ToyProject_01\\Random.h",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwBcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-04T07:03:26.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Intro.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\ToyProject_01\\Intro.c",
+              "RelativeDocumentMoniker": "..\\ToyProject_01\\Intro.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\ToyProject_01\\Intro.c",
+              "RelativeToolTip": "..\\ToyProject_01\\Intro.c",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-03T07:10:25.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Random.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\ToyProject_01\\Random.c",
+              "RelativeDocumentMoniker": "..\\ToyProject_01\\Random.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\ToyProject_01\\Random.c",
+              "RelativeToolTip": "..\\ToyProject_01\\Random.c",
+              "ViewState": "AQIAABQAAAAAAAAAAAAMwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-04T07:03:53.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "EnforceWeapon.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\ToyProject_01\\EnforceWeapon.h",
               "RelativeDocumentMoniker": "..\\ToyProject_01\\EnforceWeapon.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\ToyProject_01\\EnforceWeapon.h",
               "RelativeToolTip": "..\\ToyProject_01\\EnforceWeapon.h",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACMAAAAAAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-03-03T07:44:01.977Z",
               "EditorCaption": ""
@@ -113,6 +177,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "Currency.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\ToyProject_01\\Currency.h",
+              "RelativeDocumentMoniker": "..\\ToyProject_01\\Currency.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\ToyProject_01\\Currency.h",
+              "RelativeToolTip": "..\\ToyProject_01\\Currency.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-04T07:43:00.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Currency.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\ToyProject_01\\Currency.c",
+              "RelativeDocumentMoniker": "..\\ToyProject_01\\Currency.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\ToyProject_01\\Currency.c",
+              "RelativeToolTip": "..\\ToyProject_01\\Currency.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-04T07:43:07.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Play.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\ToyProject_01\\Play.h",
+              "RelativeDocumentMoniker": "..\\ToyProject_01\\Play.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\ToyProject_01\\Play.h",
+              "RelativeToolTip": "..\\ToyProject_01\\Play.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-03T07:11:07.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Intro.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\ToyProject_01\\Intro.h",
               "RelativeDocumentMoniker": "..\\ToyProject_01\\Intro.h",
@@ -120,64 +223,23 @@
               "RelativeToolTip": "..\\ToyProject_01\\Intro.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-03T07:10:06.195Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T07:10:06.195Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\ToyProject_01\\main.c",
-              "RelativeDocumentMoniker": "..\\ToyProject_01\\main.c",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\ToyProject_01\\main.c",
-              "RelativeToolTip": "..\\ToyProject_01\\main.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-03T07:08:06.877Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Intro.c",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\ToyProject_01\\Intro.c",
-              "RelativeDocumentMoniker": "..\\ToyProject_01\\Intro.c",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\ToyProject_01\\Intro.c",
-              "RelativeToolTip": "..\\ToyProject_01\\Intro.c",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAwBYAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-03T07:10:25.922Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Play.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\ToyProject_01\\Play.h",
-              "RelativeDocumentMoniker": "..\\ToyProject_01\\Play.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\ToyProject_01\\Play.h",
-              "RelativeToolTip": "..\\ToyProject_01\\Play.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwkAAAANAAAA",
+              "DocumentIndex": 13,
+              "Title": "main.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\Ch9\\main.h",
+              "RelativeDocumentMoniker": "..\\Ch9\\main.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\Ch9\\main.h",
+              "RelativeToolTip": "..\\Ch9\\main.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-03T07:11:07.117Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T08:04:28.805Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Play.c",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\ToyProject_01\\Play.c",
-              "RelativeDocumentMoniker": "..\\ToyProject_01\\Play.c",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\ToyProject_01\\Play.c",
-              "RelativeToolTip": "..\\ToyProject_01\\Play.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-03T07:11:14.682Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "main.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\Ch9\\main.c",
               "RelativeDocumentMoniker": "..\\Ch9\\main.c",
@@ -185,12 +247,11 @@
               "RelativeToolTip": "..\\Ch9\\main.c",
               "ViewState": "AQIAAAwAAAAAAAAAAAAQwB4AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-03T08:04:24.915Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T08:04:24.915Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "lecture.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\Ch9\\lecture.h",
               "RelativeDocumentMoniker": "..\\Ch9\\lecture.h",
@@ -198,12 +259,11 @@
               "RelativeToolTip": "..\\Ch9\\lecture.h",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-03T08:04:30.77Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T08:04:30.77Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Upgrade.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\Ch9\\Upgrade.h",
               "RelativeDocumentMoniker": "..\\Ch9\\Upgrade.h",
@@ -211,12 +271,11 @@
               "RelativeToolTip": "..\\Ch9\\Upgrade.h",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwYAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-03T08:04:33.387Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T08:04:33.387Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "Currency.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\Ch9\\Currency.h",
               "RelativeDocumentMoniker": "..\\Ch9\\Currency.h",
@@ -224,12 +283,11 @@
               "RelativeToolTip": "..\\Ch9\\Currency.h",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-03T07:48:45.211Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T07:48:45.211Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "main.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\Ch10\\main.c",
               "RelativeDocumentMoniker": "..\\Ch10\\main.c",
@@ -237,8 +295,7 @@
               "RelativeToolTip": "..\\Ch10\\main.c",
               "ViewState": "AQIAAEoAAAAAAAAAAAD4vyEAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-03T07:48:12.13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T07:48:12.13Z"
             }
           ]
         },
