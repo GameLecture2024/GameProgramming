@@ -3,19 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\CStudy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{229E30AC-D5AE-4E0B-8BE6-2BE98DC0A4E3}|..\\MoveInConsole\\MoveInConsole.vcxproj|C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\MoveInConsole\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1229B249-03E8-471C-B9FC-EC0D7472D549}|..\\ConsoleFunc\\ConsoleFunc.vcxproj|C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\ConsoleFunc\\Console.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{229E30AC-D5AE-4E0B-8BE6-2BE98DC0A4E3}|..\\MoveInConsole\\MoveInConsole.vcxproj|C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\MoveInConsole\\border.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1229B249-03E8-471C-B9FC-EC0D7472D549}|..\\ConsoleFunc\\ConsoleFunc.vcxproj|C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\ConsoleFunc\\Console.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{229E30AC-D5AE-4E0B-8BE6-2BE98DC0A4E3}|..\\MoveInConsole\\MoveInConsole.vcxproj|C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\MoveInConsole\\random.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{229E30AC-D5AE-4E0B-8BE6-2BE98DC0A4E3}|..\\MoveInConsole\\MoveInConsole.vcxproj|C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\MoveInConsole\\random.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{229E30AC-D5AE-4E0B-8BE6-2BE98DC0A4E3}|..\\MoveInConsole\\MoveInConsole.vcxproj|C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\MoveInConsole\\border.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1229B249-03E8-471C-B9FC-EC0D7472D549}|..\\ConsoleFunc\\ConsoleFunc.vcxproj|C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\ConsoleFunc\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,22 +19,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "border.c",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\MoveInConsole\\border.c",
-              "RelativeDocumentMoniker": "..\\MoveInConsole\\border.c",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\MoveInConsole\\border.c",
-              "RelativeToolTip": "..\\MoveInConsole\\border.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAmwAcAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-06T07:21:40.576Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
@@ -63,53 +43,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "random.c",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\MoveInConsole\\random.c",
-              "RelativeDocumentMoniker": "..\\MoveInConsole\\random.c",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\MoveInConsole\\random.c",
-              "RelativeToolTip": "..\\MoveInConsole\\random.c",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-07T07:31:21.239Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "random.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\MoveInConsole\\random.h",
-              "RelativeDocumentMoniker": "..\\MoveInConsole\\random.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\MoveInConsole\\random.h",
-              "RelativeToolTip": "..\\MoveInConsole\\random.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-07T07:31:16.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "border.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\MoveInConsole\\border.h",
-              "RelativeDocumentMoniker": "..\\MoveInConsole\\border.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\MoveInConsole\\border.h",
-              "RelativeToolTip": "..\\MoveInConsole\\border.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwMAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-06T07:21:32.576Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\MoveInConsole\\main.c",
-              "RelativeDocumentMoniker": "..\\MoveInConsole\\main.c",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\MoveInConsole\\main.c",
-              "RelativeToolTip": "..\\MoveInConsole\\main.c",
-              "ViewState": "AQIAAGYAAAAAAAAAAAAAAHMAAAACAAAA",
+              "Title": "Console.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\ConsoleFunc\\Console.c",
+              "RelativeDocumentMoniker": "..\\ConsoleFunc\\Console.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\ConsoleFunc\\Console.c",
+              "RelativeToolTip": "..\\ConsoleFunc\\Console.c",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-06T07:03:59.366Z",
+              "WhenOpened": "2025-03-10T08:12:09.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Console.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\ConsoleFunc\\Console.h",
+              "RelativeDocumentMoniker": "..\\ConsoleFunc\\Console.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\ConsoleFunc\\Console.h",
+              "RelativeToolTip": "..\\ConsoleFunc\\Console.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-10T08:12:04.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\ConsoleFunc\\main.c",
+              "RelativeDocumentMoniker": "..\\ConsoleFunc\\main.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GameProgramming\\C\\ConsoleFunc\\main.c",
+              "RelativeToolTip": "..\\ConsoleFunc\\main.c",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwBAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-10T07:44:09.045Z",
               "EditorCaption": ""
             }
           ]
